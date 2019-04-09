@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello C");
         System.out.println("Pull Request new");
         System.out.println("Pelle");
+        System.out.println("hej");
 
         System.out.println("Pelle");
         System.out.println("Pelhle");
