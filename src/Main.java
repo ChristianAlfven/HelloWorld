@@ -7,7 +7,6 @@ public class Main {
         System.out.println("Pull Request new");
         System.out.println("Pelle");
 
-        System.out.println("123");
 
     }
 }
